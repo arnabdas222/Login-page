@@ -7,6 +7,6 @@ function validateLogin() {
         return false;
     }
 
-    alert("Login Successful!");  // You can replace this with actual authentication logic
+    alert("Login Successful!");  
     return true;
 }
